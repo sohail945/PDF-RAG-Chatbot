@@ -45,5 +45,3 @@ Before running the project locally, ensure you have the following:
 Each step in this version is grouped under one heading, with all the relevant code for execution.
 
 Replace `<repository_url>` with your actual repository URL, and it should be ready for you!
-
-Let me know if you need anything else!
